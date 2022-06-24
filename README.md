@@ -54,8 +54,8 @@ For support, DM me on discord - </>IsntTaken#0999
 
 ## 🔗 Links
 [![website](https://img.shields.io/badge/website-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://codeuday.cf/)
-[![youtube](https://img.shields.io/badge/youtube-0A66C2?style=for-the-badge&logo=youtube&logoColor=bk)](https://www.youtube.com/c/codingwithuday/)
-[![discord](https://img.shields.io/badge/discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/943534121437777970/)
+[![youtube](https://img.shields.io/badge/youtube-0A66C2?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/c/codingwithuday/)
+[![discord](https://img.shields.io/badge/discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=purple)](https://discord.com/users/943534121437777970/)
 
 
 ## Educational Use Only
